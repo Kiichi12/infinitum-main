@@ -2282,3 +2282,16 @@ text-align: justify;
 .btn:hover {
  background-color: RoyalBlue;
 }
+
+/* css for class infi-levels-and-registration have the registration button on the left side */
+.infi-levels-and-registration {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-direction: row;
+}
+
+.infi-register-button {
+  max-height: 57px;
+  
+}
