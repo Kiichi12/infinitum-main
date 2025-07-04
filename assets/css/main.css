@@ -2292,6 +2292,8 @@ text-align: justify;
 }
 
 .infi-register-button {
-  max-height: 57px;
-  
+  max-height: 6vh;
+  margin-left: 7px;
+  /* it should fill up according the size of the content inside */
+
 }
